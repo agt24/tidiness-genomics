@@ -12,7 +12,7 @@ minutes: 20
 
 ## Lesson 
 
-There are a variety ways to approach working with a large sequencing dataset. You may be a novice who has not used bioinformatics tools beyond doing BLAST searches. You may have bioinformatics experience with other types of data and are working with high-throughput (NGS) sequence data for the first time. Either way, these lessons for you! In the most important ways, the methods and approaches we need in bioinformatics are the same ones we need at the bench or in the field - planning, documenting, and organizing  will be the key to good reproducible science. 
+There are a variety ways to approach working with a large sequencing dataset. You may be a novice who has not used bioinformatics tools beyond doing BLAST searches. You may have bioinformatics experience with other types of data and are working with high-throughput (NGS) sequence data for the first time. Either way, these lessons are for you! In the most important ways, the methods and approaches we need in bioinformatics are the same ones we need at the bench or in the field - planning, documenting, and organizing  will be the key to good reproducible science. 
 
 ## Discussion Questions
 
@@ -27,7 +27,7 @@ Before we go any further here are some important questions to consider. If you a
 
 1. What challenges do you think you'll face (or have already faced) in working with a large sequence dataset?
 2. What is your strategy for saving and sharing your sequence files?
-3. How can you be sure that your raw data are unintentionally uncorrupted?
+3. How can you be sure that your raw data are not unintentionally uncorrupted?
 4. Where/how will you (did you) analyze your data - what software, what computer(s)?
 
 ## Exercises
